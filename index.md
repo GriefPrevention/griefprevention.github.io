@@ -5,7 +5,7 @@
 <h1 align="center">The self-service anti-griefing plugin for Minecraft servers since 2011</h1>
 
 <p align="center">
-<a href="https://github.com/TechFortress/GriefPrevention/releases/"><img alt="Downloads" src="https://img.shields.io/badge/Downloads-green" height="70px"></a>
+<a href="https://github.com/GriefPrevention/GriefPrevention/releases/"><img alt="Downloads" src="https://img.shields.io/badge/Downloads-green" height="70px"></a>
 <a href="https://docs.griefprevention.com/"><img alt="Docs" src="https://img.shields.io/badge/Docs-gray?logo=readthedocs&logoColor=white" height="70px"></a>
 <a href="#support"><img alt="Get Help" src="https://img.shields.io/badge/Get%20Help-yellow?logo=amazoncloudwatch&logoColor=white" height="70px"></a>
 
@@ -25,15 +25,15 @@ Stop _responding_ to grief and prevent it instead. GriefPrevention stops grief b
 ---
 
 ## Support
-#### [Issue Tracker](https://github.com/TechFortress/GriefPrevention/issues) - Got a problem or bug you can reliably reproduce? Report it on the issue tracker.
+#### [Issue Tracker](https://github.com/GriefPrevention/GriefPrevention/issues) - Got a problem or bug you can reliably reproduce? Report it on the issue tracker.
 ###### Be sure to check if your issue already exists before posting
-#### [GitHub Discussions](https://github.com/TechFortress/GriefPrevention/discussions) - New ideas, feature requests, or other general discussions.
+#### [GitHub Discussions](https://github.com/GriefPrevention/GriefPrevention/discussions) - New ideas, feature requests, or other general discussions.
 #### [IRC Chat](https://griefprevention.com/chat/) or [Discord](https://r.griefprevention.com/dumcord/)
 
 ---
 
 ## Addons
-#### Addons provide additional features to GriefPrevention. Some of these addons are listed in [GitHub Discussions](https://github.com/TechFortress/GriefPrevention/discussions/categories/addons)
+#### Addons provide additional features to GriefPrevention. Some of these addons are listed in [GitHub Discussions](https://github.com/GriefPrevention/GriefPrevention/discussions/categories/addons)
 
 ---
 
