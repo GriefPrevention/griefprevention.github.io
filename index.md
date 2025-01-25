@@ -36,4 +36,4 @@ Stop _responding_ to grief and prevent it instead. GriefPrevention stops grief b
 ---
 
 [![Weird flex but ok](https://bstats.org/signatures/bukkit/GriefPrevention-legacy.svg)](https://bstats.org/plugin/bukkit/GriefPrevention-legacy)
-[![Another flex but ok](https://bstats.org/signatures/bukkit/GriefPrevention-legacy.svg)](https://bstats.org/plugin/bukkit/GriefPrevention)
+[![Another flex but ok](https://bstats.org/signatures/bukkit/GriefPrevention.svg)](https://bstats.org/plugin/bukkit/GriefPrevention)
